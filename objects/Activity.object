@@ -113,6 +113,14 @@
         <type>Default</type>
     </actionOverrides>
     <enableFeeds>false</enableFeeds>
+    <fields>
+        <fullName>Complete__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>If complete, check this!</description>
+        <externalId>false</externalId>
+        <label>Complete</label>
+        <type>Checkbox</type>
+    </fields>
     <listViews>
         <fullName>MyActivities</fullName>
         <filterScope>Mine</filterScope>
