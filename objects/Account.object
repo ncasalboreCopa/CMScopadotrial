@@ -238,6 +238,14 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Account_Retrieve_Only_Date__c</fullName>
+        <externalId>false</externalId>
+        <label>Account Retrieve Only Date</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Date</type>
+    </fields>
+    <fields>
         <fullName>AnnualRevenue</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
